@@ -8,7 +8,7 @@ Plug 'w0rp/ale'
 Plug 'tpope/vim-surround'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
-Plug 'scrooloose/nerdcommenter'
+Plug 'preservim/nerdcommenter'
 
 " nerdtree
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
